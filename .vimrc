@@ -18,6 +18,7 @@ Plugin 'jistr/vim-nerdtree-tabs'
 
 " Add all your plugins here (note older versions of Vundle used Bundle instead of Plugin)
 
+syntax on
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
